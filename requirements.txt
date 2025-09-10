@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+shap
+tensorflow==2.20.0
